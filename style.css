@@ -1,5 +1,12 @@
 body {
-    text-align: center;
-    align-content: center;
+    align-content: auto;
     background-color: beige;
+}
+img {
+    width: 500px;
+    height: 500px;
+    display: flex;
+}
+h1{
+    text-align: center;
 }
