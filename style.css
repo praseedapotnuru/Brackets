@@ -1,6 +1,7 @@
 body {
     align-content: auto;
     background-color: beige;
+    display: flex;
 }
 img {
     width: 500px;
